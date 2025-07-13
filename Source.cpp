@@ -1,7 +1,7 @@
 /*
 Name: Erica (Athena) Watkins
 Class: ITCS 2530 H0850 2025SS
-Github Repo URL: 
+Github Repo URL: https://github.com/arw98/ITCS2530-final2025SS.git
 Summary: Bracelet Pattern Generator using C++ that lets users create unique designs with colors & symbols.
 Your posted hobby/interest: Bracelet Making!
 AI Tool(s) Used: ChatGPT
